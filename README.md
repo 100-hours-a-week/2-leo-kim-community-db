@@ -5,6 +5,8 @@
 <li>XAMPP를 활용한 mySQL 서버 구축 및 community table 작성</li>
 </ul>
 
+![ERD](./community.png)
+
 ## 2. 회고
 
 1. 이번 과제에서는 ERD Cloud를 적극 활용하여 데이터베이스를 구축하였다. 이전에는 단순히 ERD를 도식화하는 용도로만 사용했지만, SQL Export 기능을 활용하면 SQL 문까지 자동 생성해준다는 점을 새롭게 알게 되었다. 이를 통해 DB 구축 과정이 훨씬 간편해졌다고 느꼈다.
