@@ -6,6 +6,8 @@
 </ul>
 
 ![ERD](./community.png)
+![SQL](./SQL1.png)
+![SQL](./SQL2.png)
 
 ## 2. 회고
 
